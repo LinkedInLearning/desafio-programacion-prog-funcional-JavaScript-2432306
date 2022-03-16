@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Desafío de programació
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Entiende el paradigma de programación reactiva con JavaScript utilizando RxJS, un concepto que está revolucionando el mundo del software. Durante el contenido practicarás diferentes ejercicios de programación, creando observables y utilizando operadores para manipular los flujos de datos con diferentes propósitos, como la filtración de datos, combinación de información, detección de eventos, carga remota de datos y más. Al terminar, habrás mejorado tu nivel de programación con JavaScript y comprendido las posibilidades que nos brinda combinarlo con la librería RxJS.
 
 ## Instrucciones
 
