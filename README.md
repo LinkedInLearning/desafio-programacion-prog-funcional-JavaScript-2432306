@@ -14,15 +14,14 @@ Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. 
 
 ## Ramas
 
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+Las ramas están estructuradas para corresponder a los vídeos del curso y la convención de nomenclatura es Vídeo#_i y Vídeo#_f. Todas las ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el código para desarrollar el ejercicio mientras que la branch f contiene la solución. Por ejemplo, la rama denominada `02_i` corresponde al segundo desafío y `02_f` contiene la solución.
 
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Un editor de código ([VS Code](https://code.visualstudio.com/) es recomendado)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
