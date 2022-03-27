@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Desafío JS - Cronómetro</title>
+    <style>
+        span.onda {
+            position: absolute;
+            border-radius: 50%;
+            transform: scale(0);
+            animation: onda 600ms linear;
+            background-color: rgba(16, 98, 145, 0.7);
+        }
+
+        @keyframes onda {
+            to {
+                transform: scale(4);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <button id="boton">Generar Onda!</button>
+    <script src="https://unpkg.com/@reactivex/rxjs@6.6.0/dist/global/rxjs.umd.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>
