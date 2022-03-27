@@ -1,0 +1,26 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: left;
+}
+
+div{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+input{
+    height: 30px;
+    margin-bottom: 1rem;
+}
+
+button{
+    padding: 10px 30px;
+}
+
+#colores{
+    flex-direction: row;
+}
