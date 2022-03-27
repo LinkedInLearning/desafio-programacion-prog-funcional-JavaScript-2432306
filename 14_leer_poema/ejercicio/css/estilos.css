@@ -1,0 +1,8 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#contenedor, #resultados{
+    flex-direction: column;
+    margin: 0 10% 1rem 10%;
+}
