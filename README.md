@@ -30,4 +30,4 @@ Las ramas están estructuradas para corresponder a los vídeos del curso y la co
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: [https://www.linkedin.com/learning/desafio-de-programacion-programacion-funcional-en-javascript/empezando-con-la-programacion-funcional]
+[lil-course-url]: https://www.linkedin.com/learning/desafio-de-programacion-programacion-funcional-en-javascript
