@@ -1,12 +1,12 @@
-# Nombre final del curso
+# Desafío de programación: Programación funcional en JavaScript
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: Programación funcional en JavaScript]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Entiende el paradigma de programación reactiva con JavaScript utilizando RxJS, un concepto que está revolucionando el mundo del software. Durante el contenido practicarás diferentes ejercicios de programación, creando observables y utilizando operadores para manipular los flujos de datos con diferentes propósitos, como la filtración de datos, combinación de información, detección de eventos, carga remota de datos y más. Al terminar, habrás mejorado tu nivel de programación con JavaScript y comprendido las posibilidades que nos brinda combinarlo con la librería RxJS.
 
 ## Instrucciones
 
@@ -25,10 +25,10 @@ Las ramas están estructuradas para corresponder a los vídeos del curso y la co
 
 ### Docente
 
-**Nombre del docente**
+**Natalia Corea**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: [https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg](https://cdn.lynda.com/course/2432306/2432306-1653471840268-16x9.jpg)
