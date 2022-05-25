@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: Programación funcional en JavaScript]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Nombre completo del curso][![image](https://user-images.githubusercontent.com/71371373/170255452-e8a5f53a-0854-426f-91df-7a32c2e366bd.png)] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
